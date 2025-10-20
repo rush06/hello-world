@@ -1,2 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+
+I am Rushabh Pawnikar, a senior in the ASTE program at USC. 
